@@ -6,7 +6,7 @@ import 'package:http/http.dart' as http;
 
 
 final _URL_NEWS = 'http://newsapi.org/v2';
-final _APIKEY = '90ef85ee3a2f440796e938c603b73cb7';
+final _APIKEY = 'API KEY';
 
 
 class NewsService with ChangeNotifier{
